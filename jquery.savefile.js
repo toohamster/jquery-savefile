@@ -6,7 +6,7 @@
  * https://github.com/toohamster/jquery-savefile
  *
  * @author toohamster, 2016
- * @license MIT License <http://opensource.org/licenses/MIT>
+ * @license Apache License Version 2.0
  */
 (function($) {
     'use strict';
